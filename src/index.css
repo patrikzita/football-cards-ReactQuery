@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main {
+  padding: 1rem;
+}
+
+article {
+  padding: 1rem;
+}
+
+.player-layout {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.clubs-container {
+  margin: 0 2rem;
+}
+
+.clubs-layout {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+h5 span {
+  font-weight: 200;
+}
+
+.info-title span {
+  font-weight: 300;
+}

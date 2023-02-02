@@ -1,0 +1,150 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "name": "Lionel Messi",
+      "position": "Forward",
+      "clubId": 8,
+      "country": "Argentina",
+      "image": "public/players/lionel_messi.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Cristiano Ronaldo",
+      "position": "Forward",
+      "clubId": 7,
+      "country": "Portugal",
+      "image": "public/players/cristiano_ronaldo.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Neymar Jr.",
+      "position": "Forward",
+      "clubId": 6,
+      "country": "Brazil",
+      "image": "public/players/neymar.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Kevin De Bruyne",
+      "position": "Midfielder",
+      "clubId": 5,
+      "country": "Belgium",
+      "image": "public/players/kevin_de_bruyne.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Kylian Mbappé",
+      "position": "Forward",
+      "clubId": 6,
+      "country": "France",
+      "image": "public/players/kylian_mbappe.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Robert Lewandowski",
+      "position": "Forward",
+      "clubId": 4,
+      "country": "Poland",
+      "image": "public/players/robert_lewandowski.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Virgil van Dijk",
+      "position": "Defender",
+      "clubId": 3,
+      "country": "Netherlands",
+      "image": "public/players/virgil_van_dijk.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Jan Oblak",
+      "position": "Goalkeeper",
+      "clubId": 2,
+      "country": "Slovenia",
+      "image": "public/players/jan_oblak.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Patrik Zita",
+      "position": "Midfielder",
+      "clubId": 1,
+      "country": "Czech Republic",
+      "image": "public/players/patrik_zita.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Filip Marek",
+      "position": "Goalkeeper",
+      "clubId": 2,
+      "country": "Czech Republic",
+      "image": "public/holder.svg"
+    }
+  ],
+  "clubs": [
+    {
+      "id": 1,
+      "name": "Jiskra Višňová",
+      "country": "Czech Republic",
+      "stadium": "Betonek",
+      "capacity": 1500,
+      "website": "https://www.jiskravisnova.cz/"
+    },
+    {
+      "id": 2,
+      "name": "Atletico Madrid",
+      "country": "Spain",
+      "stadium": "Wanda Metropolitano",
+      "capacity": 68456,
+      "website": "https://en.atleticodemadrid.com/"
+    },
+    {
+      "id": 3,
+      "name": "Liverpool",
+      "country": "England",
+      "stadium": "Anfield Stadium",
+      "capacity": 53394,
+      "website": "https://www.liverpoolfc.com/"
+    },
+    {
+      "id": 4,
+      "name": "Bayern Munich",
+      "country": "Germany",
+      "stadium": "Allianz Arena",
+      "capacity": 75024,
+      "website": "https://fcbayern.com/"
+    },
+    {
+      "id": 5,
+      "name": "Manchester City",
+      "country": "England",
+      "stadium": "Etihad Stadium",
+      "capacity": 53400,
+      "website": "https://www.mancity.com/"
+    },
+    {
+      "id": 6,
+      "name": "Paris Saint-Germain",
+      "country": "France",
+      "stadium": "Le Parc des Princes",
+      "capacity": 47929,
+      "website": "https://www.jiskravisnova.cz/"
+    },
+    {
+      "id": 7,
+      "name": "Juventus",
+      "country": "Italy",
+      "stadium": "Juventus Stadium",
+      "capacity": 41507,
+      "website": "https://www.jiskravisnova.cz/"
+    },
+    {
+      "id": 8,
+      "name": "Barcelona",
+      "country": "Spain",
+      "stadium": "Camp Nou",
+      "capacity": 99354,
+      "website": "https://www.jiskravisnova.cz/"
+    }
+  ]
+}
