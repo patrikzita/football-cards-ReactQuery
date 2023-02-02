@@ -5,4 +5,5 @@ I did not pay much attention to the project's design aspect, as I mentioned earl
 This is also the first time I am extensively using React Bootstrap.
 
 **npx json-server -p 3000 -w API/db.json**
+
 **npm run dev**
